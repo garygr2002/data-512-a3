@@ -1,2 +1,6 @@
-# data-512-a3
-Final project plan for DATA 512A, University of Washington, Autumn, 2017
+### DATA 512 – Human Centered Data Science, University of Washington, Autumn 2017
+
+# Study of Income Level versus Ethnicity Breakdown by ZIP Code in the United States
+### Gary C. Gregg, University of Washington
+garygr@uw.edu
+
